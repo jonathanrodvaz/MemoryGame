@@ -41,12 +41,13 @@ body{
 .front-face, 
 .back-face{
     width: 100%;
-    height: 100%;
+    height: 80%;
     padding: 20px;
     border-radius: 5px;
     position: absolute;
     background: #1c7ccc;
     backface-visibility: hidden;
+  
 }
 
 .front-face {
